@@ -7,12 +7,6 @@ Samuel JOSSE
 ## Fabriqué avec
     - Javascript
 
-## Indication
-
-Pour lancer le jeu il faut seulement lancer index.html
-Le jeu est fonctionnel et marche très bien.
-
-
 
 ## Auteur
     - JOSSE Samuel
