@@ -1,4 +1,3 @@
-Samuel JOSSE
 
 ## Information
     - TP sur le candy crush
